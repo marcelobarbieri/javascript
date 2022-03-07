@@ -23,4 +23,4 @@
 
 # Referência:
 
-> (JavaScript)[https://www.linkedin.com/posts/jseyehunts_like-share-activity-6906130636969517056-pGO-]
+> [JavaScript](https://www.linkedin.com/posts/jseyehunts_like-share-activity-6906130636969517056-pGO-)
